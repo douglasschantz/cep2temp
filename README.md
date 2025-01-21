@@ -34,3 +34,5 @@ Testes automatizados demonstrando o funcionamento.
 Utilize docker/docker-compose para que possamos realizar os testes de sua aplicação.
 Deploy realizado no Google Cloud Run (free tier) e endereço ativo para ser acessado.
 
+Link Google Cloud Run tests: https://cep-2-temp-zp7ux5uvra-uc.a.run.app/cep2temp/{cep}
+Exemplo: https://cep-2-temp-zp7ux5uvra-uc.a.run.app/cep2temp/97061306
